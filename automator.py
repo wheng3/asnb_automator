@@ -1,4 +1,5 @@
 from splinter import Browser
+import config
 
 with Browser() as browser:
     # Visit URL
